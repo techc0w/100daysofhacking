@@ -50,3 +50,24 @@ Also completed another module in the Web Fundamentals learning path.
 
 # Day 12 (December 7)
 
+Was able to complete the Day 7 task from the Advent of Cyber 2022 event via TryHackMe (Cyberchef: Maldocs roasting on an open fire). It was fun learning how CyberChef operates and helped me understand how to defang URLs.
+
+Also completed anotheer module on the Web Fundamentals path.
+
+# Day 13 (December 8)
+
+Completed the Day 8 Advent of Cyber 2022 task via TryHackMe (Smart Contracts: Last Christmas I gave you my ETH). Have to admit, this one I struggled a bit since I never really saw the appeal on cryptocurrency. But it was interesting to learn more about how it functions and how smart contracts are involved.
+
+Also halfway done with my Week 2 learning for the Technical Support Fundamentals course.
+
+# Day 14 (December 9)
+
+This was such a difficult but exciting task! Day 9 of the Advent of Cyber event focused on Metasploit and pivoting. I had to rewatch the video a couple of times before I was able to grasp the concept. It was also awesome to get first hand exposure in using Kali Linux. 
+
+The good news is that I finished the Week 2 lesson and did my assessment for the Technical Support Fundamentals course.
+
+# Day 15 (December 10)
+
+Now this task got interesting (Hack a game: You're a mean one, Mr. Yeti).
+
+For the Day 10 task, I learned how to use Cetus which was a browser plugin to explore the memory space of Web Assembly games. Editing the hexadecimals on some parts in the game reminded me of the days when I used Game Shark to make edits on the codes in a simliar format. 
