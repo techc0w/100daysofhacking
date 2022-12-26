@@ -114,4 +114,15 @@ Day 17 task from the Advent of Cyber event from TryHackMe focused on another Pur
 
 Day 18 task from the Advent of Cyber event from TryHackMe focused on how to use Sigma and understanding Sigma rules. To be honest, this was not my favorite task to do as it was hard to understand the task. Even after watching the video, I was a bit lost. 
 
+# Day 24 (December 19)
+
+Day 19 task from the Advent of Cyber event from TryHackMe focused on hardware hacking. Since this was a Red Team topic, it peaked my interest. It was a good way to learn about how data is sent via electrial wires in low-level hardware, communication protocols and how to analyze them, and learning how to read USART data from a logic capture. Even though the task scratched the surface on hardware taking, it was mindblowing to see how one can read the data when viewing it at a careful inspection.
+
+# Day 25 (December 20)
+
+Day 20 task from the Advent of Cyber event from TryHackMe focused on another Red Team topic, which was Firmware reverse engineering and analysis. This was interesting because it provided good exposure on what it's about, along with how to extract the code from the firmware, finding the hidden keys in encrypted hardware, and modifying / rebuilding the firmware.
+
+# Day 26 (December 21)
+
+Day 21 task from the Advent of Cyber event from TryHackMe focused on Messaging Protocols and Middleware. This task was fun as you're able to hack a webcam! It was a great way to understand IoT (Internet of Things) as well as using MQTT (in this case we used the mosquitto_sub client utility). 
 
