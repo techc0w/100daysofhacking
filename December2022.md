@@ -71,3 +71,37 @@ The good news is that I finished the Week 2 lesson and did my assessment for the
 Now this task got interesting (Hack a game: You're a mean one, Mr. Yeti).
 
 For the Day 10 task, I learned how to use Cetus which was a browser plugin to explore the memory space of Web Assembly games. Editing the hexadecimals on some parts in the game reminded me of the days when I used Game Shark to make edits on the codes in a simliar format. 
+
+# Day 16 (December 11)
+
+Day 11 task from Advent of Cyber via TryHackMe focused on Memory Forensics. It was straightforward and I liked how it broke down the different plugins used when scanning the files. 
+
+Also halfway done with the Week 3 module from the Technical Support Fundamentals course. Super happy of the progress and am actually enjoying the work.
+
+# Day 17 (December 12)
+
+Today was super tiring due to work. But I managed to complete Day 12 task from the Advent of Cyber via TryHackMe, which focused on Malware Analysis. I'm not a huge fan of using Windows,but it was good to see the different scripts used within FLARE VM. Using the Proccess Monitor Filter as well as the Detect it Easy tool was new to me. 
+
+Also finished the rest of the videos from the Week 3 module from the Technical Support Fundamentals course. Just need to do the graded assessments.
+
+# Day 18 (December 13)
+
+Day 13 task from the Advent of Cyber event from TryHackMe focused on Packet Analysis. By far, one of my favorites as I've worked with Wireshark in the past. So, this was a great way to refresh myself on the tool, as well as how one can learn to detect anomalities in the network and view the logs with more insight. 
+
+Finally finished the assessments for Week 3 of the Technical Support Fundamentals course. Time to move onto the next module.
+
+# Day 19 (December 14)
+
+Day 14 task from the Advent of Cyber event from TryHackMe focused on Web Applications. It was nice to get a recap on understanding how they work, as well as understand OWASP Top 10 and IDOR. This one was pretty easy to do as I was able to figure out how to adjust the URL by changing the ID numbers.
+
+Also started going through the Week 4 module for the Technical Support Fundamentals course.
+
+# Day 20 (December 15)
+
+Day 15 task from the Advent of Cyber event from TryHackMe focused on Secure Coding. This was the first time I heard about Purple Teams so this topic falled under this scope. It covered topics related to input validation of file upload functionality, unrestricted file upload vunerabilites, phishing through file uploads, and how to properly secure file upload functionality. Going through the task and being able to load a suspicious file into the input form while running the server and gaining access to their computer was thrilling. But also scary since now it made me more aware of the downloads I get online to ensure that this doesn't happen to me. 
+
+Sadly, I couldn't do any lessons from the Technical Support Fundamentals course since work was extremely busy (holiday projects are not so fun).
+
+# Day 21 (December 16)
+
+Day 16 task from the Advent of Cyber event from TryHackMe focused on another Purple Team topic, which was 
