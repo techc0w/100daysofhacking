@@ -104,4 +104,14 @@ Sadly, I couldn't do any lessons from the Technical Support Fundamentals course 
 
 # Day 21 (December 16)
 
-Day 16 task from the Advent of Cyber event from TryHackMe focused on another Purple Team topic, which was 
+Day 16 task from the Advent of Cyber event from TryHackMe focused on another Purple Team topic, which was on SQL injections. I love using SQL, so this was a great way to get more exposure related to how it works. Still rusty on PHP, but this was a good refresher.
+
+# Day 22 (December 17)
+
+Day 17 task from the Advent of Cyber event from TryHackMe focused on another Purple Team topic which was input validation, HTML5 and Regex. I have to admit, I'm not familiar with Regex in terms of application. It took a while for me to grasp the concept, but I maange to complete the task after rereading the instructions.
+
+# Day 23 (December 18)
+
+Day 18 task from the Advent of Cyber event from TryHackMe focused on how to use Sigma and understanding Sigma rules. To be honest, this was not my favorite task to do as it was hard to understand the task. Even after watching the video, I was a bit lost. 
+
+
